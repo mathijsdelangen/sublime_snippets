@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+#ifndef ${TM_FILENAME/(.+)\.(.+)/\U$1_\U$2/}
+#define ${TM_FILENAME/(.+)\.(.+)/\U$1_\U$2/}
+
+$SELECTION
+
+#endif // ${TM_FILENAME/(.+)\.(.+)/\U$1_\U$2/} 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ifndef</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.cpp</scope> -->
+	<!-- Optional: Description to show in the menu -->
+    <description>ifndef</description>
+</snippet>
+
