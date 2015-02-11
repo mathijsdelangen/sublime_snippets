@@ -6,5 +6,5 @@ My sublime snippets
 Go to the Sublime snippets folder: 
 ```cd ~/.config/sublime-text-3/Packages/User```
 
-Create symlink to repo
+Create symlink to this repo
 ```ln -s <location_of_this_repo> snippets```
