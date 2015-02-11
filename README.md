@@ -7,4 +7,4 @@ Go to the Sublime snippets folder:
 ```cd ~/.config/sublime-text-3/Packages/User```
 
 Create symlink to repo
-```ln -s __repo_location__ snippets```
+```ln -s <location_of_this_repo> snippets```
