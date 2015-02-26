@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-//! @todo MdL [${1:CONF, DUPL, IMPL, IMPR, LANG, QSTN}]: ${2:description}.
+//! @todo MdL [${1:CONF, DUPL, IMPL, IMPR, LANG, QSTN, TEST}]: ${2:description}.
 ]]></content>
     <tabTrigger>todo</tabTrigger>
 </snippet>
